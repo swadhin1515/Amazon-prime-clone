@@ -1,7 +1,8 @@
 repo_name: swadhin1515/Amazon-prime-clone
 report_id: df6a55eff06960424cd47e76e06977f7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:27:45+00:00'
+timestamp: '2024-01-05T08:58:51+00:00'
 requested_by: swadhin1515
 provider: github
 branch: amazon
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone
   detection_source: Repo Metadata
 - name: Material-UI
   description: Material UI is a library of React UI components that implements Google's
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-11 10:07:28.000000000 Z
@@ -49,7 +53,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -63,7 +67,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -76,7 +80,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2022-08-12 18:18:17.000000000 Z
@@ -89,6 +93,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2022-08-12 18:18:17.000000000 Z
@@ -100,6 +105,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2021-09-09 13:12:07.000000000 Z
@@ -111,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -120,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-09 11:04:56.000000000 Z
@@ -131,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-09 11:04:56.000000000 Z
@@ -144,7 +153,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-14 08:31:53.000000000 Z
@@ -158,7 +167,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-11 10:07:28.000000000 Z
@@ -172,7 +181,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-11 10:07:28.000000000 Z
@@ -186,7 +195,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-10-25 11:01:39.000000000 Z
@@ -201,7 +210,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -215,7 +224,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -229,7 +238,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2022-08-12 18:18:17.000000000 Z
@@ -243,7 +252,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -257,7 +266,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2020-11-23 20:15:44.000000000 Z
@@ -271,7 +280,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/swadhin1515/Amazon-prime-clone/blob/amazon/package-lock.json
   detection_source: package.json
   last_updated_by: Peeyush Goyal
   last_updated_on: 2022-08-12 18:18:17.000000000 Z
